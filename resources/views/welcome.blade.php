@@ -30,7 +30,7 @@
     <div class="preloader-inner">
       <span class="dot"></span>
       <div class="dots">
-        <span></span>
+        <span>my new version</span>
         <span></span>
         <span></span>
       </div>
